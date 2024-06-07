@@ -1,0 +1,5 @@
+ Prevent the form from being submitted the default way
+
+ //dont stringify it the json body
+
+ the codebase is quite messy! refractor and write clean code
