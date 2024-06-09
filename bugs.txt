@@ -2,4 +2,15 @@
 
  //dont stringify it the json body
 
+ fix ui of both forms
+
  the codebase is quite messy! refractor and write clean code
+
+ if search result is empty, it should show "No Result Found"
+
+
+
+make a form with the following fields
+Name, Email , password, Gender (Radio Button) , Professional/Student (Checkbox , on clicking one the other one should automatically get unchecked)
+
+Send all data to this endpoint 

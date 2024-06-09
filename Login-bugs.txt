@@ -1,0 +1,13 @@
+
+ add the following validations in SignUp form
+-Name / Email / password shouldnt be empty
+-Name shouldn't be more than 10 letters,
+-Email should contain "@", ".com" 
+
+
+submit button is not working
+
+
+match the localstorage password while logging in
+
+
