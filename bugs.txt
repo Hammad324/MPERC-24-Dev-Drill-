@@ -1,16 +1,16 @@
- Prevent the form from being submitted the default way
 
- //dont stringify it the json body
 
- fix ui of both forms
 
+
+
+
+
+Send all data to this endpoint https://mprecserver.free.beeceptor.com
+
+Previous and Next Button are not working
+if search result is empty, it should show "No Result Found"
+
+fix logical bugs in the form  
+fix prominent UI issues
+ 
  the codebase is quite messy! refractor and write clean code
-
- if search result is empty, it should show "No Result Found"
-
-
-
-make a form with the following fields
-Name, Email , password, Gender (Radio Button) , Professional/Student (Checkbox , on clicking one the other one should automatically get unchecked)
-
-Send all data to this endpoint 
